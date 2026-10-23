@@ -1,0 +1,18 @@
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F6F5"
+textColor = "#10161D"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+port = 8501
+address = "localhost"
+
+[client]
+toolbarMode = "viewer"
+showErrorDetails = "full"

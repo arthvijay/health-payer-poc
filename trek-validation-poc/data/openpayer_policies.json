@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "source": "Simulated OpenPayer policy intelligence (synthetic, for demo only)",
+    "as_of": "2026-Q3"
+  },
+  "27447": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "BMI < 40 documented; radiographic Kellgren-Lawrence grade 3-4; 6 weeks of documented conservative therapy (PT, NSAIDs, injections).",
+      "policy_change_2026": "2026-04 bulletin: conservative-therapy documentation window extended from 3 to 6 weeks; site-of-service review now applies to outpatient TKA.",
+      "common_denial_code": "CO-197",
+      "common_denial_reason": "Precertification/authorization absent",
+      "denial_risk": "High"
+    },
+    "Aetna": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Failed 3 months non-surgical management; functional limitation score documented.",
+      "policy_change_2026": "2026-01: added mandatory pre-op shared decision-making attestation.",
+      "common_denial_code": "CO-50",
+      "common_denial_reason": "Not deemed medically necessary",
+      "denial_risk": "Medium"
+    }
+  },
+  "27446": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Isolated single-compartment OA; intact ACL; ROM > 90\u00b0.",
+      "policy_change_2026": "2026-02: partial knee moved under the same PA program as 27447.",
+      "common_denial_code": "CO-197",
+      "common_denial_reason": "Precertification/authorization absent",
+      "denial_risk": "High"
+    },
+    "Aetna": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Single-compartment disease confirmed by weight-bearing imaging.",
+      "policy_change_2026": "No 2026 change.",
+      "common_denial_code": "CO-50",
+      "common_denial_reason": "Not deemed medically necessary",
+      "denial_risk": "Medium"
+    }
+  },
+  "29827": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Full-thickness tear on MRI or failed 6 weeks of PT for partial tear.",
+      "policy_change_2026": "2026-03: MRI report must be attached at PA submission.",
+      "common_denial_code": "CO-16",
+      "common_denial_reason": "Claim lacks information needed for adjudication",
+      "denial_risk": "Medium"
+    },
+    "Aetna": {
+      "prior_auth_required": false,
+      "medical_necessity_criteria": "Standard clinical documentation.",
+      "policy_change_2026": "No 2026 change.",
+      "common_denial_code": "CO-4",
+      "common_denial_reason": "Procedure code inconsistent with modifier",
+      "denial_risk": "Low"
+    }
+  },
+  "70553": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Advanced imaging PA via radiology benefit manager; neuro symptoms or known lesion follow-up.",
+      "policy_change_2026": "2026-01: RBM program expanded to hospital outpatient departments.",
+      "common_denial_code": "CO-197",
+      "common_denial_reason": "Precertification/authorization absent",
+      "denial_risk": "High"
+    },
+    "Aetna": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Clinical decision support score required for ordering provider.",
+      "policy_change_2026": "2026-05: CDS appropriate-use criteria enforcement began.",
+      "common_denial_code": "CO-50",
+      "common_denial_reason": "Not deemed medically necessary",
+      "denial_risk": "Medium"
+    }
+  },
+  "45380": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": false,
+      "medical_necessity_criteria": "Screening-to-diagnostic conversion must be coded with PT modifier.",
+      "policy_change_2026": "2026-02: tightened edits on screening-to-diagnostic conversion.",
+      "common_denial_code": "CO-4",
+      "common_denial_reason": "Procedure code inconsistent with modifier",
+      "denial_risk": "Medium"
+    },
+    "Aetna": {
+      "prior_auth_required": false,
+      "medical_necessity_criteria": "Standard.",
+      "policy_change_2026": "No 2026 change.",
+      "common_denial_code": "CO-16",
+      "common_denial_reason": "Claim lacks information needed for adjudication",
+      "denial_risk": "Low"
+    }
+  },
+  "45385": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": false,
+      "medical_necessity_criteria": "Pathology report must support lesion removal by snare.",
+      "policy_change_2026": "2026-02: same screening-conversion edits as 45380.",
+      "common_denial_code": "CO-4",
+      "common_denial_reason": "Procedure code inconsistent with modifier",
+      "denial_risk": "Medium"
+    },
+    "Aetna": {
+      "prior_auth_required": false,
+      "medical_necessity_criteria": "Standard.",
+      "policy_change_2026": "No 2026 change.",
+      "common_denial_code": "CO-16",
+      "common_denial_reason": "Claim lacks information needed for adjudication",
+      "denial_risk": "Low"
+    }
+  },
+  "93458": {
+    "UnitedHealthcare (UHC)": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Positive stress test or high-risk ACS presentation documented.",
+      "policy_change_2026": "2026-06: elective diagnostic caths require non-invasive testing first.",
+      "common_denial_code": "CO-50",
+      "common_denial_reason": "Not deemed medically necessary",
+      "denial_risk": "High"
+    },
+    "Aetna": {
+      "prior_auth_required": true,
+      "medical_necessity_criteria": "Appropriate-use criteria score >= 7.",
+      "policy_change_2026": "No 2026 change.",
+      "common_denial_code": "CO-197",
+      "common_denial_reason": "Precertification/authorization absent",
+      "denial_risk": "Medium"
+    }
+  }
+}

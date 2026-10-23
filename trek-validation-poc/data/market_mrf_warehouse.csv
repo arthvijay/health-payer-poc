@@ -1,0 +1,637 @@
+mrf_record_id,hospital_name,ein_npi,payer_name,plan_type,cpt_code,description,service_line,billing_class,medicare_rate,negotiated_rate,pct_of_medicare,mrf_schema_version,last_updated
+MRF-1001,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2924.2,221.5,2.0,2026-Q3
+MRF-1002,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3348.38,259.6,2.0,2026-Q3
+MRF-1003,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1269.05,216.9,2.0,2026-Q3
+MRF-1004,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),HMO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1323.26,226.2,2.0,2026-Q3
+MRF-1005,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2260.01,240.4,2.0,2026-Q3
+MRF-1006,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,4081.1,258.3,2.0,2026-Q3
+MRF-1007,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1124.61,274.3,2.0,2026-Q3
+MRF-1008,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,750.61,283.2,2.0,2026-Q3
+MRF-1009,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,885.21,281.0,2.0,2026-Q3
+MRF-1010,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,717.15,292.7,2.0,2026-Q3
+MRF-1011,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,619.21,252.7,2.0,2026-Q3
+MRF-1012,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,322.98,258.4,2.0,2026-Q3
+MRF-1013,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,377.3,269.5,2.0,2026-Q3
+MRF-1014,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,550.31,239.3,2.0,2026-Q3
+MRF-1015,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,63.35,253.4,2.0,2026-Q3
+MRF-1016,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2751.08,254.7,2.0,2026-Q3
+MRF-1017,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),HMO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2933.77,271.6,2.0,2026-Q3
+MRF-1018,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3897.61,236.2,2.0,2026-Q3
+MRF-1019,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,857.93,241.7,2.0,2026-Q3
+MRF-1020,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,991.64,228.0,2.0,2026-Q3
+MRF-1021,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,870.17,200.0,2.0,2026-Q3
+MRF-1022,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,751.26,242.3,2.0,2026-Q3
+MRF-1023,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1874.08,240.3,2.0,2026-Q3
+MRF-1024,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,308.21,212.6,2.0,2026-Q3
+MRF-1025,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,562.68,212.3,2.0,2026-Q3
+MRF-1026,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,892.15,212.4,2.0,2026-Q3
+MRF-1027,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,193.0,209.8,2.0,2026-Q3
+MRF-1028,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,182.7,198.6,2.0,2026-Q3
+MRF-1029,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,241.4,185.7,2.0,2026-Q3
+MRF-1030,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,371.75,200.9,2.0,2026-Q3
+MRF-1031,Bayview Metro Medical Center,84-1029384,UnitedHealthcare (UHC),PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,18.37,204.1,2.0,2026-Q3
+MRF-1032,Bayview Metro Medical Center,84-1029384,Aetna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3083.84,233.6,2.0,2026-Q3
+MRF-1033,Bayview Metro Medical Center,84-1029384,Aetna,HMO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3321.22,251.6,2.0,2026-Q3
+MRF-1034,Bayview Metro Medical Center,84-1029384,Aetna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3144.52,243.8,2.0,2026-Q3
+MRF-1035,Bayview Metro Medical Center,84-1029384,Aetna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1535.05,262.4,2.0,2026-Q3
+MRF-1036,Bayview Metro Medical Center,84-1029384,Aetna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2507.79,266.8,2.0,2026-Q3
+MRF-1037,Bayview Metro Medical Center,84-1029384,Aetna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3812.35,241.3,2.0,2026-Q3
+MRF-1038,Bayview Metro Medical Center,84-1029384,Aetna,HMO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3940.48,249.4,2.0,2026-Q3
+MRF-1039,Bayview Metro Medical Center,84-1029384,Aetna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1050.56,256.2,2.0,2026-Q3
+MRF-1040,Bayview Metro Medical Center,84-1029384,Aetna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,698.65,263.6,2.0,2026-Q3
+MRF-1041,Bayview Metro Medical Center,84-1029384,Aetna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,904.1,287.0,2.0,2026-Q3
+MRF-1042,Bayview Metro Medical Center,84-1029384,Aetna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,671.86,274.2,2.0,2026-Q3
+MRF-1043,Bayview Metro Medical Center,84-1029384,Aetna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,372.91,298.3,2.0,2026-Q3
+MRF-1044,Bayview Metro Medical Center,84-1029384,Aetna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,412.06,294.3,2.0,2026-Q3
+MRF-1045,Bayview Metro Medical Center,84-1029384,Aetna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,571.82,248.6,2.0,2026-Q3
+MRF-1046,Bayview Metro Medical Center,84-1029384,Aetna,HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,531.0,230.9,2.0,2026-Q3
+MRF-1047,Bayview Metro Medical Center,84-1029384,Aetna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,66.53,266.1,2.0,2026-Q3
+MRF-1048,Bayview Metro Medical Center,84-1029384,Aetna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2766.96,256.2,2.0,2026-Q3
+MRF-1049,Bayview Metro Medical Center,84-1029384,Aetna,HMO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2671.5,247.4,2.0,2026-Q3
+MRF-1050,Bayview Metro Medical Center,84-1029384,Aetna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4453.96,269.9,2.0,2026-Q3
+MRF-1051,Bayview Metro Medical Center,84-1029384,Aetna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,821.06,231.3,2.0,2026-Q3
+MRF-1052,Bayview Metro Medical Center,84-1029384,Aetna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,909.33,209.0,2.0,2026-Q3
+MRF-1053,Bayview Metro Medical Center,84-1029384,Aetna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,667.21,215.2,2.0,2026-Q3
+MRF-1054,Bayview Metro Medical Center,84-1029384,Aetna,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,636.87,205.4,2.0,2026-Q3
+MRF-1055,Bayview Metro Medical Center,84-1029384,Aetna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1735.76,222.5,2.0,2026-Q3
+MRF-1056,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,349.11,240.8,2.0,2026-Q3
+MRF-1057,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,609.99,230.2,2.0,2026-Q3
+MRF-1058,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,896.53,213.5,2.0,2026-Q3
+MRF-1059,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,194.29,211.2,2.0,2026-Q3
+MRF-1060,Bayview Metro Medical Center,84-1029384,Aetna,HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,198.57,215.8,2.0,2026-Q3
+MRF-1061,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,292.07,224.7,2.0,2026-Q3
+MRF-1062,Bayview Metro Medical Center,84-1029384,Aetna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,382.81,206.9,2.0,2026-Q3
+MRF-1063,Bayview Metro Medical Center,84-1029384,Aetna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,19.64,218.2,2.0,2026-Q3
+MRF-1064,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3075.73,233.0,2.0,2026-Q3
+MRF-1065,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3353.75,260.0,2.0,2026-Q3
+MRF-1066,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1232.78,210.7,2.0,2026-Q3
+MRF-1067,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2188.07,232.8,2.0,2026-Q3
+MRF-1068,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3863.33,244.5,2.0,2026-Q3
+MRF-1069,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1194.74,291.4,2.0,2026-Q3
+MRF-1070,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,898.7,219.2,2.0,2026-Q3
+MRF-1071,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,637.82,240.7,2.0,2026-Q3
+MRF-1072,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,619.2,233.7,2.0,2026-Q3
+MRF-1073,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,859.06,272.7,2.0,2026-Q3
+MRF-1074,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,564.56,230.4,2.0,2026-Q3
+MRF-1075,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,544.52,222.3,2.0,2026-Q3
+MRF-1076,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,346.48,277.2,2.0,2026-Q3
+MRF-1077,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,458.16,327.3,2.0,2026-Q3
+MRF-1078,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,496.8,216.0,2.0,2026-Q3
+MRF-1079,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,59.71,238.8,2.0,2026-Q3
+MRF-1080,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2442.46,226.2,2.0,2026-Q3
+MRF-1081,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3814.41,231.2,2.0,2026-Q3
+MRF-1082,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,785.65,221.3,2.0,2026-Q3
+MRF-1083,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,875.09,201.2,2.0,2026-Q3
+MRF-1084,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,773.27,177.8,2.0,2026-Q3
+MRF-1085,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,674.59,217.6,2.0,2026-Q3
+MRF-1086,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1722.53,220.8,2.0,2026-Q3
+MRF-1087,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,276.16,190.5,2.0,2026-Q3
+MRF-1088,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,243.12,167.7,2.0,2026-Q3
+MRF-1089,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,495.67,187.0,2.0,2026-Q3
+MRF-1090,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,579.19,218.6,2.0,2026-Q3
+MRF-1091,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,890.27,212.0,2.0,2026-Q3
+MRF-1092,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,196.47,213.6,2.0,2026-Q3
+MRF-1093,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,254.47,195.7,2.0,2026-Q3
+MRF-1094,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,347.99,188.1,2.0,2026-Q3
+MRF-1095,Bayview Metro Medical Center,84-1029384,Anthem BCBS,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,17.2,191.1,2.0,2026-Q3
+MRF-1096,Bayview Metro Medical Center,84-1029384,Anthem BCBS,HMO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,15.04,167.1,2.0,2026-Q3
+MRF-1097,Bayview Metro Medical Center,84-1029384,Cigna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3479.85,263.6,2.0,2026-Q3
+MRF-1098,Bayview Metro Medical Center,84-1029384,Cigna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3397.34,263.4,2.0,2026-Q3
+MRF-1099,Bayview Metro Medical Center,84-1029384,Cigna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1556.24,266.0,2.0,2026-Q3
+MRF-1100,Bayview Metro Medical Center,84-1029384,Cigna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2487.37,264.6,2.0,2026-Q3
+MRF-1101,Bayview Metro Medical Center,84-1029384,Cigna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,4488.32,284.1,2.0,2026-Q3
+MRF-1102,Bayview Metro Medical Center,84-1029384,Cigna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1353.0,330.0,2.0,2026-Q3
+MRF-1103,Bayview Metro Medical Center,84-1029384,Cigna,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1140.2,278.1,2.0,2026-Q3
+MRF-1104,Bayview Metro Medical Center,84-1029384,Cigna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,699.94,264.1,2.0,2026-Q3
+MRF-1105,Bayview Metro Medical Center,84-1029384,Cigna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,1039.5,330.0,2.0,2026-Q3
+MRF-1106,Bayview Metro Medical Center,84-1029384,Cigna,HMO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,850.95,270.1,2.0,2026-Q3
+MRF-1107,Bayview Metro Medical Center,84-1029384,Cigna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,808.5,330.0,2.0,2026-Q3
+MRF-1108,Bayview Metro Medical Center,84-1029384,Cigna,HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,614.52,250.8,2.0,2026-Q3
+MRF-1109,Bayview Metro Medical Center,84-1029384,Cigna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,387.8,310.2,2.0,2026-Q3
+MRF-1110,Bayview Metro Medical Center,84-1029384,Cigna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,412.38,294.6,2.0,2026-Q3
+MRF-1111,Bayview Metro Medical Center,84-1029384,Cigna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,628.05,273.1,2.0,2026-Q3
+MRF-1112,Bayview Metro Medical Center,84-1029384,Cigna,HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,636.28,276.6,2.0,2026-Q3
+MRF-1113,Bayview Metro Medical Center,84-1029384,Cigna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,69.96,279.8,2.0,2026-Q3
+MRF-1114,Bayview Metro Medical Center,84-1029384,Cigna,HMO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,52.45,209.8,2.0,2026-Q3
+MRF-1115,Bayview Metro Medical Center,84-1029384,Cigna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2683.26,248.5,2.0,2026-Q3
+MRF-1116,Bayview Metro Medical Center,84-1029384,Cigna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4087.98,247.8,2.0,2026-Q3
+MRF-1117,Bayview Metro Medical Center,84-1029384,Cigna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,949.07,267.3,2.0,2026-Q3
+MRF-1118,Bayview Metro Medical Center,84-1029384,Cigna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1083.43,249.1,2.0,2026-Q3
+MRF-1119,Bayview Metro Medical Center,84-1029384,Cigna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,800.9,258.4,2.0,2026-Q3
+MRF-1120,Bayview Metro Medical Center,84-1029384,Cigna,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,689.08,222.3,2.0,2026-Q3
+MRF-1121,Bayview Metro Medical Center,84-1029384,Cigna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,2099.81,269.2,2.0,2026-Q3
+MRF-1122,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,363.64,250.8,2.0,2026-Q3
+MRF-1123,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,564.82,213.1,2.0,2026-Q3
+MRF-1124,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,964.98,229.8,2.0,2026-Q3
+MRF-1125,Bayview Metro Medical Center,84-1029384,Cigna,HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,892.71,212.6,2.0,2026-Q3
+MRF-1126,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,208.82,227.0,2.0,2026-Q3
+MRF-1127,Bayview Metro Medical Center,84-1029384,Cigna,HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,196.36,213.4,2.0,2026-Q3
+MRF-1128,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,340.4,261.8,2.0,2026-Q3
+MRF-1129,Bayview Metro Medical Center,84-1029384,Cigna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,407.41,220.2,2.0,2026-Q3
+MRF-1130,Bayview Metro Medical Center,84-1029384,Cigna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,19.34,214.9,2.0,2026-Q3
+MRF-1131,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3172.66,240.4,2.0,2026-Q3
+MRF-1132,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2527.44,191.5,2.0,2026-Q3
+MRF-1133,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2371.04,183.8,2.0,2026-Q3
+MRF-1134,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1172.73,200.5,2.0,2026-Q3
+MRF-1135,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2448.51,260.5,2.0,2026-Q3
+MRF-1136,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3214.74,203.5,2.0,2026-Q3
+MRF-1137,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,881.1,214.9,2.0,2026-Q3
+MRF-1138,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,777.2,293.3,2.0,2026-Q3
+MRF-1139,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,713.7,226.6,2.0,2026-Q3
+MRF-1140,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,764.56,312.1,2.0,2026-Q3
+MRF-1141,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,300.21,240.2,2.0,2026-Q3
+MRF-1142,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,295.51,236.4,2.0,2026-Q3
+MRF-1143,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,320.0,228.6,2.0,2026-Q3
+MRF-1144,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,546.05,237.4,2.0,2026-Q3
+MRF-1145,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,494.1,214.8,2.0,2026-Q3
+MRF-1146,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,55.18,220.7,2.0,2026-Q3
+MRF-1147,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2364.0,218.9,2.0,2026-Q3
+MRF-1148,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2193.57,203.1,2.0,2026-Q3
+MRF-1149,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3521.19,213.4,2.0,2026-Q3
+MRF-1150,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3555.08,215.5,2.0,2026-Q3
+MRF-1151,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,749.62,211.2,2.0,2026-Q3
+MRF-1152,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,911.06,209.4,2.0,2026-Q3
+MRF-1153,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,610.24,196.9,2.0,2026-Q3
+MRF-1154,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1614.08,206.9,2.0,2026-Q3
+MRF-1155,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1788.59,229.3,2.0,2026-Q3
+MRF-1156,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,282.87,195.1,2.0,2026-Q3
+MRF-1157,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,458.57,173.0,2.0,2026-Q3
+MRF-1158,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,512.77,193.5,2.0,2026-Q3
+MRF-1159,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,825.54,196.6,2.0,2026-Q3
+MRF-1160,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,642.58,153.0,2.0,2026-Q3
+MRF-1161,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,180.46,196.2,2.0,2026-Q3
+MRF-1162,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,236.79,182.1,2.0,2026-Q3
+MRF-1163,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,351.4,189.9,2.0,2026-Q3
+MRF-1164,TriCounty Regional Hospital,84-2290117,UnitedHealthcare (UHC),PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,16.88,187.6,2.0,2026-Q3
+MRF-1165,TriCounty Regional Hospital,84-2290117,Aetna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3032.93,229.8,2.0,2026-Q3
+MRF-1166,TriCounty Regional Hospital,84-2290117,Aetna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2384.53,184.8,2.0,2026-Q3
+MRF-1167,TriCounty Regional Hospital,84-2290117,Aetna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1346.72,230.2,2.0,2026-Q3
+MRF-1168,TriCounty Regional Hospital,84-2290117,Aetna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2071.07,220.3,2.0,2026-Q3
+MRF-1169,TriCounty Regional Hospital,84-2290117,Aetna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3681.63,233.0,2.0,2026-Q3
+MRF-1170,TriCounty Regional Hospital,84-2290117,Aetna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,932.9,227.5,2.0,2026-Q3
+MRF-1171,TriCounty Regional Hospital,84-2290117,Aetna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,664.01,250.6,2.0,2026-Q3
+MRF-1172,TriCounty Regional Hospital,84-2290117,Aetna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,744.86,236.5,2.0,2026-Q3
+MRF-1173,TriCounty Regional Hospital,84-2290117,Aetna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,699.33,285.4,2.0,2026-Q3
+MRF-1174,TriCounty Regional Hospital,84-2290117,Aetna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,369.35,295.5,2.0,2026-Q3
+MRF-1175,TriCounty Regional Hospital,84-2290117,Aetna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,373.02,266.4,2.0,2026-Q3
+MRF-1176,TriCounty Regional Hospital,84-2290117,Aetna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,552.73,240.3,2.0,2026-Q3
+MRF-1177,TriCounty Regional Hospital,84-2290117,Aetna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,56.65,226.6,2.0,2026-Q3
+MRF-1178,TriCounty Regional Hospital,84-2290117,Aetna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2369.88,219.4,2.0,2026-Q3
+MRF-1179,TriCounty Regional Hospital,84-2290117,Aetna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3484.0,211.2,2.0,2026-Q3
+MRF-1180,TriCounty Regional Hospital,84-2290117,Aetna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,758.31,213.6,2.0,2026-Q3
+MRF-1181,TriCounty Regional Hospital,84-2290117,Aetna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1001.89,230.3,2.0,2026-Q3
+MRF-1182,TriCounty Regional Hospital,84-2290117,Aetna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,712.84,229.9,2.0,2026-Q3
+MRF-1183,TriCounty Regional Hospital,84-2290117,Aetna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1682.72,215.7,2.0,2026-Q3
+MRF-1184,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,273.65,188.7,2.0,2026-Q3
+MRF-1185,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,548.57,207.0,2.0,2026-Q3
+MRF-1186,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,761.85,181.4,2.0,2026-Q3
+MRF-1187,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,164.19,178.5,2.0,2026-Q3
+MRF-1188,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,262.19,201.7,2.0,2026-Q3
+MRF-1189,TriCounty Regional Hospital,84-2290117,Aetna,HMO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,260.86,200.7,2.0,2026-Q3
+MRF-1190,TriCounty Regional Hospital,84-2290117,Aetna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,302.97,163.8,2.0,2026-Q3
+MRF-1191,TriCounty Regional Hospital,84-2290117,Aetna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,17.81,197.9,2.0,2026-Q3
+MRF-1192,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3114.62,236.0,2.0,2026-Q3
+MRF-1193,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2551.12,197.8,2.0,2026-Q3
+MRF-1194,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1068.77,182.7,2.0,2026-Q3
+MRF-1195,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1269.39,217.0,2.0,2026-Q3
+MRF-1196,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2085.54,221.9,2.0,2026-Q3
+MRF-1197,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3496.29,221.3,2.0,2026-Q3
+MRF-1198,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,981.55,239.4,2.0,2026-Q3
+MRF-1199,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,636.32,240.1,2.0,2026-Q3
+MRF-1200,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,731.51,232.2,2.0,2026-Q3
+MRF-1201,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,593.64,242.3,2.0,2026-Q3
+MRF-1202,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,579.99,236.7,2.0,2026-Q3
+MRF-1203,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,290.81,232.6,2.0,2026-Q3
+MRF-1204,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,309.98,221.4,2.0,2026-Q3
+MRF-1205,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,495.43,215.4,2.0,2026-Q3
+MRF-1206,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,53.03,212.1,2.0,2026-Q3
+MRF-1207,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2451.4,227.0,2.0,2026-Q3
+MRF-1208,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3655.6,221.6,2.0,2026-Q3
+MRF-1209,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,691.89,194.9,2.0,2026-Q3
+MRF-1210,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,979.85,225.3,2.0,2026-Q3
+MRF-1211,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,772.69,177.6,2.0,2026-Q3
+MRF-1212,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,682.02,220.0,2.0,2026-Q3
+MRF-1213,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,502.47,162.1,2.0,2026-Q3
+MRF-1214,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1359.55,174.3,2.0,2026-Q3
+MRF-1215,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,269.88,186.1,2.0,2026-Q3
+MRF-1216,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,486.83,183.7,2.0,2026-Q3
+MRF-1217,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,627.36,149.4,2.0,2026-Q3
+MRF-1218,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,704.94,167.8,2.0,2026-Q3
+MRF-1219,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,171.51,186.4,2.0,2026-Q3
+MRF-1220,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,236.2,181.7,2.0,2026-Q3
+MRF-1221,TriCounty Regional Hospital,84-2290117,Anthem BCBS,HMO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,230.87,177.6,2.0,2026-Q3
+MRF-1222,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,346.83,187.5,2.0,2026-Q3
+MRF-1223,TriCounty Regional Hospital,84-2290117,Anthem BCBS,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,15.94,177.1,2.0,2026-Q3
+MRF-1224,TriCounty Regional Hospital,84-2290117,Cigna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3322.46,251.7,2.0,2026-Q3
+MRF-1225,TriCounty Regional Hospital,84-2290117,Cigna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3170.11,245.7,2.0,2026-Q3
+MRF-1226,TriCounty Regional Hospital,84-2290117,Cigna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1366.0,233.5,2.0,2026-Q3
+MRF-1227,TriCounty Regional Hospital,84-2290117,Cigna,HMO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1370.37,234.3,2.0,2026-Q3
+MRF-1228,TriCounty Regional Hospital,84-2290117,Cigna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1997.39,212.5,2.0,2026-Q3
+MRF-1229,TriCounty Regional Hospital,84-2290117,Cigna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3089.99,195.6,2.0,2026-Q3
+MRF-1230,TriCounty Regional Hospital,84-2290117,Cigna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1162.94,283.6,2.0,2026-Q3
+MRF-1231,TriCounty Regional Hospital,84-2290117,Cigna,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,995.65,242.8,2.0,2026-Q3
+MRF-1232,TriCounty Regional Hospital,84-2290117,Cigna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,772.37,291.5,2.0,2026-Q3
+MRF-1233,TriCounty Regional Hospital,84-2290117,Cigna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,836.84,265.7,2.0,2026-Q3
+MRF-1234,TriCounty Regional Hospital,84-2290117,Cigna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,649.37,265.0,2.0,2026-Q3
+MRF-1235,TriCounty Regional Hospital,84-2290117,Cigna,HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,678.29,276.9,2.0,2026-Q3
+MRF-1236,TriCounty Regional Hospital,84-2290117,Cigna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,312.29,249.8,2.0,2026-Q3
+MRF-1237,TriCounty Regional Hospital,84-2290117,Cigna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,332.22,237.3,2.0,2026-Q3
+MRF-1238,TriCounty Regional Hospital,84-2290117,Cigna,HMO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,323.96,231.4,2.0,2026-Q3
+MRF-1239,TriCounty Regional Hospital,84-2290117,Cigna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,590.98,256.9,2.0,2026-Q3
+MRF-1240,TriCounty Regional Hospital,84-2290117,Cigna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,53.93,215.7,2.0,2026-Q3
+MRF-1241,TriCounty Regional Hospital,84-2290117,Cigna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2394.39,221.7,2.0,2026-Q3
+MRF-1242,TriCounty Regional Hospital,84-2290117,Cigna,HMO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2513.75,232.8,2.0,2026-Q3
+MRF-1243,TriCounty Regional Hospital,84-2290117,Cigna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3433.96,208.1,2.0,2026-Q3
+MRF-1244,TriCounty Regional Hospital,84-2290117,Cigna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,761.8,214.6,2.0,2026-Q3
+MRF-1245,TriCounty Regional Hospital,84-2290117,Cigna,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,712.52,200.7,2.0,2026-Q3
+MRF-1246,TriCounty Regional Hospital,84-2290117,Cigna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,929.8,213.7,2.0,2026-Q3
+MRF-1247,TriCounty Regional Hospital,84-2290117,Cigna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,687.73,221.8,2.0,2026-Q3
+MRF-1248,TriCounty Regional Hospital,84-2290117,Cigna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1808.44,231.9,2.0,2026-Q3
+MRF-1249,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,288.2,198.8,2.0,2026-Q3
+MRF-1250,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,589.6,222.5,2.0,2026-Q3
+MRF-1251,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,938.0,223.3,2.0,2026-Q3
+MRF-1252,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,185.98,202.2,2.0,2026-Q3
+MRF-1253,TriCounty Regional Hospital,84-2290117,Cigna,HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,179.73,195.4,2.0,2026-Q3
+MRF-1254,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,313.57,241.2,2.0,2026-Q3
+MRF-1255,TriCounty Regional Hospital,84-2290117,Cigna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,382.8,206.9,2.0,2026-Q3
+MRF-1256,TriCounty Regional Hospital,84-2290117,Cigna,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,383.07,207.1,2.0,2026-Q3
+MRF-1257,TriCounty Regional Hospital,84-2290117,Cigna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,18.88,209.8,2.0,2026-Q3
+MRF-1258,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3410.99,258.4,2.0,2026-Q3
+MRF-1259,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2862.62,221.9,2.0,2026-Q3
+MRF-1260,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1348.14,230.5,2.0,2026-Q3
+MRF-1261,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2313.89,246.2,2.0,2026-Q3
+MRF-1262,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),HMO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2572.28,273.6,2.0,2026-Q3
+MRF-1263,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3686.64,233.3,2.0,2026-Q3
+MRF-1264,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1133.44,276.4,2.0,2026-Q3
+MRF-1265,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,768.14,289.9,2.0,2026-Q3
+MRF-1266,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,875.55,278.0,2.0,2026-Q3
+MRF-1267,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,638.63,260.7,2.0,2026-Q3
+MRF-1268,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,412.5,330.0,2.0,2026-Q3
+MRF-1269,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,448.42,320.3,2.0,2026-Q3
+MRF-1270,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,620.66,269.9,2.0,2026-Q3
+MRF-1271,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,63.53,254.1,2.0,2026-Q3
+MRF-1272,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2879.52,266.6,2.0,2026-Q3
+MRF-1273,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4482.85,271.7,2.0,2026-Q3
+MRF-1274,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,880.28,248.0,2.0,2026-Q3
+MRF-1275,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1086.22,249.7,2.0,2026-Q3
+MRF-1276,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,804.49,259.5,2.0,2026-Q3
+MRF-1277,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,599.61,193.4,2.0,2026-Q3
+MRF-1278,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1601.71,205.3,2.0,2026-Q3
+MRF-1279,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),HMO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1549.85,198.7,2.0,2026-Q3
+MRF-1280,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,340.19,234.6,2.0,2026-Q3
+MRF-1281,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,513.21,193.7,2.0,2026-Q3
+MRF-1282,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,878.25,209.1,2.0,2026-Q3
+MRF-1283,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,208.04,226.1,2.0,2026-Q3
+MRF-1284,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,294.68,226.7,2.0,2026-Q3
+MRF-1285,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,394.54,213.3,2.0,2026-Q3
+MRF-1286,Valley Crest Medical,84-3378201,UnitedHealthcare (UHC),PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,19.52,216.9,2.0,2026-Q3
+MRF-1287,Valley Crest Medical,84-3378201,Aetna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3556.17,269.4,2.0,2026-Q3
+MRF-1288,Valley Crest Medical,84-3378201,Aetna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3199.68,248.0,2.0,2026-Q3
+MRF-1289,Valley Crest Medical,84-3378201,Aetna,HMO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3378.31,261.9,2.0,2026-Q3
+MRF-1290,Valley Crest Medical,84-3378201,Aetna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1418.68,242.5,2.0,2026-Q3
+MRF-1291,Valley Crest Medical,84-3378201,Aetna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2741.4,291.6,2.0,2026-Q3
+MRF-1292,Valley Crest Medical,84-3378201,Aetna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,4633.03,293.2,2.0,2026-Q3
+MRF-1293,Valley Crest Medical,84-3378201,Aetna,HMO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3717.05,235.3,2.0,2026-Q3
+MRF-1294,Valley Crest Medical,84-3378201,Aetna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1230.68,300.2,2.0,2026-Q3
+MRF-1295,Valley Crest Medical,84-3378201,Aetna,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1156.19,282.0,2.0,2026-Q3
+MRF-1296,Valley Crest Medical,84-3378201,Aetna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,764.66,288.6,2.0,2026-Q3
+MRF-1297,Valley Crest Medical,84-3378201,Aetna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,902.65,286.6,2.0,2026-Q3
+MRF-1298,Valley Crest Medical,84-3378201,Aetna,HMO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,902.2,286.4,2.0,2026-Q3
+MRF-1299,Valley Crest Medical,84-3378201,Aetna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,765.78,312.6,2.0,2026-Q3
+MRF-1300,Valley Crest Medical,84-3378201,Aetna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,406.99,325.6,2.0,2026-Q3
+MRF-1301,Valley Crest Medical,84-3378201,Aetna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,390.47,278.9,2.0,2026-Q3
+MRF-1302,Valley Crest Medical,84-3378201,Aetna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,576.77,250.8,2.0,2026-Q3
+MRF-1303,Valley Crest Medical,84-3378201,Aetna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,66.02,264.1,2.0,2026-Q3
+MRF-1304,Valley Crest Medical,84-3378201,Aetna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2856.75,264.5,2.0,2026-Q3
+MRF-1305,Valley Crest Medical,84-3378201,Aetna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4077.77,247.1,2.0,2026-Q3
+MRF-1306,Valley Crest Medical,84-3378201,Aetna,HMO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4350.15,263.6,2.0,2026-Q3
+MRF-1307,Valley Crest Medical,84-3378201,Aetna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,916.84,258.3,2.0,2026-Q3
+MRF-1308,Valley Crest Medical,84-3378201,Aetna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1115.52,256.4,2.0,2026-Q3
+MRF-1309,Valley Crest Medical,84-3378201,Aetna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,770.95,248.7,2.0,2026-Q3
+MRF-1310,Valley Crest Medical,84-3378201,Aetna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1839.1,235.8,2.0,2026-Q3
+MRF-1311,Valley Crest Medical,84-3378201,Aetna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,298.14,205.6,2.0,2026-Q3
+MRF-1312,Valley Crest Medical,84-3378201,Aetna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,577.67,218.0,2.0,2026-Q3
+MRF-1313,Valley Crest Medical,84-3378201,Aetna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,948.59,225.9,2.0,2026-Q3
+MRF-1314,Valley Crest Medical,84-3378201,Aetna,HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,911.24,217.0,2.0,2026-Q3
+MRF-1315,Valley Crest Medical,84-3378201,Aetna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,196.55,213.6,2.0,2026-Q3
+MRF-1316,Valley Crest Medical,84-3378201,Aetna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,313.27,241.0,2.0,2026-Q3
+MRF-1317,Valley Crest Medical,84-3378201,Aetna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,398.82,215.6,2.0,2026-Q3
+MRF-1318,Valley Crest Medical,84-3378201,Aetna,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,408.31,220.7,2.0,2026-Q3
+MRF-1319,Valley Crest Medical,84-3378201,Aetna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,18.21,202.3,2.0,2026-Q3
+MRF-1320,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3227.02,244.5,2.0,2026-Q3
+MRF-1321,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2734.78,207.2,2.0,2026-Q3
+MRF-1322,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2748.96,213.1,2.0,2026-Q3
+MRF-1323,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1547.53,264.5,2.0,2026-Q3
+MRF-1324,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2316.75,246.5,2.0,2026-Q3
+MRF-1325,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3448.3,218.2,2.0,2026-Q3
+MRF-1326,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1020.98,249.0,2.0,2026-Q3
+MRF-1327,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,843.57,318.3,2.0,2026-Q3
+MRF-1328,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,608.6,229.7,2.0,2026-Q3
+MRF-1329,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,870.91,276.5,2.0,2026-Q3
+MRF-1330,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,602.81,246.0,2.0,2026-Q3
+MRF-1331,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,392.35,313.9,2.0,2026-Q3
+MRF-1332,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,367.18,262.3,2.0,2026-Q3
+MRF-1333,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,508.03,220.9,2.0,2026-Q3
+MRF-1334,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,506.01,220.0,2.0,2026-Q3
+MRF-1335,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,65.29,261.2,2.0,2026-Q3
+MRF-1336,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2293.11,212.3,2.0,2026-Q3
+MRF-1337,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3855.56,233.7,2.0,2026-Q3
+MRF-1338,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,772.33,217.6,2.0,2026-Q3
+MRF-1339,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,717.75,202.2,2.0,2026-Q3
+MRF-1340,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1057.73,243.2,2.0,2026-Q3
+MRF-1341,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,619.7,199.9,2.0,2026-Q3
+MRF-1342,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,688.52,222.1,2.0,2026-Q3
+MRF-1343,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1818.23,233.1,2.0,2026-Q3
+MRF-1344,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1480.79,189.8,2.0,2026-Q3
+MRF-1345,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,282.05,194.5,2.0,2026-Q3
+MRF-1346,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,582.13,219.7,2.0,2026-Q3
+MRF-1347,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,829.65,197.5,2.0,2026-Q3
+MRF-1348,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,910.18,216.7,2.0,2026-Q3
+MRF-1349,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,191.37,208.0,2.0,2026-Q3
+MRF-1350,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,256.68,197.4,2.0,2026-Q3
+MRF-1351,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,367.8,198.8,2.0,2026-Q3
+MRF-1352,Valley Crest Medical,84-3378201,Anthem BCBS,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,345.41,186.7,2.0,2026-Q3
+MRF-1353,Valley Crest Medical,84-3378201,Anthem BCBS,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,17.18,190.9,2.0,2026-Q3
+MRF-1354,Valley Crest Medical,84-3378201,Cigna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,4086.65,309.6,2.0,2026-Q3
+MRF-1355,Valley Crest Medical,84-3378201,Cigna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3398.86,263.5,2.0,2026-Q3
+MRF-1356,Valley Crest Medical,84-3378201,Cigna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1553.08,265.5,2.0,2026-Q3
+MRF-1357,Valley Crest Medical,84-3378201,Cigna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2519.73,268.1,2.0,2026-Q3
+MRF-1358,Valley Crest Medical,84-3378201,Cigna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,4504.2,285.1,2.0,2026-Q3
+MRF-1359,Valley Crest Medical,84-3378201,Cigna,HMO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,4170.49,264.0,2.0,2026-Q3
+MRF-1360,Valley Crest Medical,84-3378201,Cigna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1337.39,326.2,2.0,2026-Q3
+MRF-1361,Valley Crest Medical,84-3378201,Cigna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,828.71,312.7,2.0,2026-Q3
+MRF-1362,Valley Crest Medical,84-3378201,Cigna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,960.64,305.0,2.0,2026-Q3
+MRF-1363,Valley Crest Medical,84-3378201,Cigna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,657.99,268.6,2.0,2026-Q3
+MRF-1364,Valley Crest Medical,84-3378201,Cigna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,373.7,299.0,2.0,2026-Q3
+MRF-1365,Valley Crest Medical,84-3378201,Cigna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,425.85,304.2,2.0,2026-Q3
+MRF-1366,Valley Crest Medical,84-3378201,Cigna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,585.8,254.7,2.0,2026-Q3
+MRF-1367,Valley Crest Medical,84-3378201,Cigna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,71.35,285.4,2.0,2026-Q3
+MRF-1368,Valley Crest Medical,84-3378201,Cigna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,3047.59,282.2,2.0,2026-Q3
+MRF-1369,Valley Crest Medical,84-3378201,Cigna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4473.05,271.1,2.0,2026-Q3
+MRF-1370,Valley Crest Medical,84-3378201,Cigna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,921.93,259.7,2.0,2026-Q3
+MRF-1371,Valley Crest Medical,84-3378201,Cigna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1100.72,253.0,2.0,2026-Q3
+MRF-1372,Valley Crest Medical,84-3378201,Cigna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,703.37,226.9,2.0,2026-Q3
+MRF-1373,Valley Crest Medical,84-3378201,Cigna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,2108.26,270.3,2.0,2026-Q3
+MRF-1374,Valley Crest Medical,84-3378201,Cigna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,278.57,192.1,2.0,2026-Q3
+MRF-1375,Valley Crest Medical,84-3378201,Cigna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,638.83,241.1,2.0,2026-Q3
+MRF-1376,Valley Crest Medical,84-3378201,Cigna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,891.61,212.3,2.0,2026-Q3
+MRF-1377,Valley Crest Medical,84-3378201,Cigna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,223.15,242.6,2.0,2026-Q3
+MRF-1378,Valley Crest Medical,84-3378201,Cigna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,316.23,243.3,2.0,2026-Q3
+MRF-1379,Valley Crest Medical,84-3378201,Cigna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,450.11,243.3,2.0,2026-Q3
+MRF-1380,Valley Crest Medical,84-3378201,Cigna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,22.66,251.8,2.0,2026-Q3
+MRF-1381,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2987.36,226.3,2.0,2026-Q3
+MRF-1382,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2550.86,197.7,2.0,2026-Q3
+MRF-1383,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1276.01,218.1,2.0,2026-Q3
+MRF-1384,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1255.8,214.7,2.0,2026-Q3
+MRF-1385,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1860.35,197.9,2.0,2026-Q3
+MRF-1386,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3172.07,200.8,2.0,2026-Q3
+MRF-1387,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,794.57,193.8,2.0,2026-Q3
+MRF-1388,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,828.18,202.0,2.0,2026-Q3
+MRF-1389,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,510.75,192.7,2.0,2026-Q3
+MRF-1390,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,529.46,199.8,2.0,2026-Q3
+MRF-1391,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,719.29,228.3,2.0,2026-Q3
+MRF-1392,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,557.49,227.5,2.0,2026-Q3
+MRF-1393,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,288.74,231.0,2.0,2026-Q3
+MRF-1394,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,293.38,234.7,2.0,2026-Q3
+MRF-1395,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,302.05,215.8,2.0,2026-Q3
+MRF-1396,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,472.93,205.6,2.0,2026-Q3
+MRF-1397,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,52.27,209.1,2.0,2026-Q3
+MRF-1398,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2080.8,192.7,2.0,2026-Q3
+MRF-1399,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2100.18,194.5,2.0,2026-Q3
+MRF-1400,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3133.35,189.9,2.0,2026-Q3
+MRF-1401,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,733.73,206.7,2.0,2026-Q3
+MRF-1402,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,784.24,180.3,2.0,2026-Q3
+MRF-1403,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,663.79,214.1,2.0,2026-Q3
+MRF-1404,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1353.87,173.6,2.0,2026-Q3
+MRF-1405,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,289.21,199.5,2.0,2026-Q3
+MRF-1406,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,500.01,188.7,2.0,2026-Q3
+MRF-1407,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,681.44,162.2,2.0,2026-Q3
+MRF-1408,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,718.4,171.0,2.0,2026-Q3
+MRF-1409,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,170.58,185.4,2.0,2026-Q3
+MRF-1410,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,149.56,162.6,2.0,2026-Q3
+MRF-1411,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,233.62,179.7,2.0,2026-Q3
+MRF-1412,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,350.18,189.3,2.0,2026-Q3
+MRF-1413,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,268.25,145.0,2.0,2026-Q3
+MRF-1414,Covenant Ridge Health Center,84-4410923,UnitedHealthcare (UHC),PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,17.3,192.2,2.0,2026-Q3
+MRF-1415,Covenant Ridge Health Center,84-4410923,Aetna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2590.43,196.2,2.0,2026-Q3
+MRF-1416,Covenant Ridge Health Center,84-4410923,Aetna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2768.78,214.6,2.0,2026-Q3
+MRF-1417,Covenant Ridge Health Center,84-4410923,Aetna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1438.36,245.9,2.0,2026-Q3
+MRF-1418,Covenant Ridge Health Center,84-4410923,Aetna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1942.99,206.7,2.0,2026-Q3
+MRF-1419,Covenant Ridge Health Center,84-4410923,Aetna,HMO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1733.16,184.4,2.0,2026-Q3
+MRF-1420,Covenant Ridge Health Center,84-4410923,Aetna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3284.86,207.9,2.0,2026-Q3
+MRF-1421,Covenant Ridge Health Center,84-4410923,Aetna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1165.68,284.3,2.0,2026-Q3
+MRF-1422,Covenant Ridge Health Center,84-4410923,Aetna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,700.38,264.3,2.0,2026-Q3
+MRF-1423,Covenant Ridge Health Center,84-4410923,Aetna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,814.01,258.4,2.0,2026-Q3
+MRF-1424,Covenant Ridge Health Center,84-4410923,Aetna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,612.57,250.0,2.0,2026-Q3
+MRF-1425,Covenant Ridge Health Center,84-4410923,Aetna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,317.39,253.9,2.0,2026-Q3
+MRF-1426,Covenant Ridge Health Center,84-4410923,Aetna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,355.53,253.9,2.0,2026-Q3
+MRF-1427,Covenant Ridge Health Center,84-4410923,Aetna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,434.07,188.7,2.0,2026-Q3
+MRF-1428,Covenant Ridge Health Center,84-4410923,Aetna,HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,468.73,203.8,2.0,2026-Q3
+MRF-1429,Covenant Ridge Health Center,84-4410923,Aetna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,49.12,196.5,2.0,2026-Q3
+MRF-1430,Covenant Ridge Health Center,84-4410923,Aetna,HMO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,57.9,231.6,2.0,2026-Q3
+MRF-1431,Covenant Ridge Health Center,84-4410923,Aetna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2620.9,242.7,2.0,2026-Q3
+MRF-1432,Covenant Ridge Health Center,84-4410923,Aetna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4001.4,242.5,2.0,2026-Q3
+MRF-1433,Covenant Ridge Health Center,84-4410923,Aetna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,734.15,206.8,2.0,2026-Q3
+MRF-1434,Covenant Ridge Health Center,84-4410923,Aetna,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,615.51,173.4,2.0,2026-Q3
+MRF-1435,Covenant Ridge Health Center,84-4410923,Aetna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,889.41,204.5,2.0,2026-Q3
+MRF-1436,Covenant Ridge Health Center,84-4410923,Aetna,HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,741.7,170.5,2.0,2026-Q3
+MRF-1437,Covenant Ridge Health Center,84-4410923,Aetna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,626.77,202.2,2.0,2026-Q3
+MRF-1438,Covenant Ridge Health Center,84-4410923,Aetna,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,677.35,218.5,2.0,2026-Q3
+MRF-1439,Covenant Ridge Health Center,84-4410923,Aetna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1588.57,203.7,2.0,2026-Q3
+MRF-1440,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,268.54,185.2,2.0,2026-Q3
+MRF-1441,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,448.48,169.2,2.0,2026-Q3
+MRF-1442,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,730.19,173.9,2.0,2026-Q3
+MRF-1443,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,176.87,192.2,2.0,2026-Q3
+MRF-1444,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,207.96,160.0,2.0,2026-Q3
+MRF-1445,Covenant Ridge Health Center,84-4410923,Aetna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,369.72,199.8,2.0,2026-Q3
+MRF-1446,Covenant Ridge Health Center,84-4410923,Aetna,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,345.59,186.8,2.0,2026-Q3
+MRF-1447,Covenant Ridge Health Center,84-4410923,Aetna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,16.66,185.1,2.0,2026-Q3
+MRF-1448,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2354.34,178.4,2.0,2026-Q3
+MRF-1449,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2586.51,200.5,2.0,2026-Q3
+MRF-1450,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1242.57,212.4,2.0,2026-Q3
+MRF-1451,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1655.19,176.1,2.0,2026-Q3
+MRF-1452,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3127.17,197.9,2.0,2026-Q3
+MRF-1453,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,863.0,210.5,2.0,2026-Q3
+MRF-1454,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,857.74,209.2,2.0,2026-Q3
+MRF-1455,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,555.56,209.6,2.0,2026-Q3
+MRF-1456,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,672.43,213.5,2.0,2026-Q3
+MRF-1457,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,552.03,225.3,2.0,2026-Q3
+MRF-1458,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,265.15,212.1,2.0,2026-Q3
+MRF-1459,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,281.23,200.9,2.0,2026-Q3
+MRF-1460,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,242.31,173.1,2.0,2026-Q3
+MRF-1461,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,458.39,199.3,2.0,2026-Q3
+MRF-1462,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,49.24,197.0,2.0,2026-Q3
+MRF-1463,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,1734.01,160.6,2.0,2026-Q3
+MRF-1464,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3717.29,225.3,2.0,2026-Q3
+MRF-1465,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,640.08,180.3,2.0,2026-Q3
+MRF-1466,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,577.77,162.8,2.0,2026-Q3
+MRF-1467,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,787.69,181.1,2.0,2026-Q3
+MRF-1468,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,667.43,215.3,2.0,2026-Q3
+MRF-1469,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1688.44,216.5,2.0,2026-Q3
+MRF-1470,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1352.13,173.3,2.0,2026-Q3
+MRF-1471,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,242.62,167.3,2.0,2026-Q3
+MRF-1472,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,459.98,173.6,2.0,2026-Q3
+MRF-1473,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,757.92,180.5,2.0,2026-Q3
+MRF-1474,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,167.59,182.2,2.0,2026-Q3
+MRF-1475,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,210.73,162.1,2.0,2026-Q3
+MRF-1476,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,312.64,169.0,2.0,2026-Q3
+MRF-1477,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,296.57,160.3,2.0,2026-Q3
+MRF-1478,Covenant Ridge Health Center,84-4410923,Anthem BCBS,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,15.59,173.2,2.0,2026-Q3
+MRF-1479,Covenant Ridge Health Center,84-4410923,Anthem BCBS,HMO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,14.6,162.2,2.0,2026-Q3
+MRF-1480,Covenant Ridge Health Center,84-4410923,Cigna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3078.79,233.2,2.0,2026-Q3
+MRF-1481,Covenant Ridge Health Center,84-4410923,Cigna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2541.71,197.0,2.0,2026-Q3
+MRF-1482,Covenant Ridge Health Center,84-4410923,Cigna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1302.33,222.6,2.0,2026-Q3
+MRF-1483,Covenant Ridge Health Center,84-4410923,Cigna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2221.51,236.3,2.0,2026-Q3
+MRF-1484,Covenant Ridge Health Center,84-4410923,Cigna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3381.94,214.0,2.0,2026-Q3
+MRF-1485,Covenant Ridge Health Center,84-4410923,Cigna,HMO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3100.75,196.2,2.0,2026-Q3
+MRF-1486,Covenant Ridge Health Center,84-4410923,Cigna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1050.7,256.3,2.0,2026-Q3
+MRF-1487,Covenant Ridge Health Center,84-4410923,Cigna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,703.75,265.6,2.0,2026-Q3
+MRF-1488,Covenant Ridge Health Center,84-4410923,Cigna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,678.55,215.4,2.0,2026-Q3
+MRF-1489,Covenant Ridge Health Center,84-4410923,Cigna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,613.4,250.4,2.0,2026-Q3
+MRF-1490,Covenant Ridge Health Center,84-4410923,Cigna,HMO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,561.02,229.0,2.0,2026-Q3
+MRF-1491,Covenant Ridge Health Center,84-4410923,Cigna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,312.57,250.1,2.0,2026-Q3
+MRF-1492,Covenant Ridge Health Center,84-4410923,Cigna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,378.49,270.4,2.0,2026-Q3
+MRF-1493,Covenant Ridge Health Center,84-4410923,Cigna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,473.37,205.8,2.0,2026-Q3
+MRF-1494,Covenant Ridge Health Center,84-4410923,Cigna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,57.83,231.3,2.0,2026-Q3
+MRF-1495,Covenant Ridge Health Center,84-4410923,Cigna,HMO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,58.06,232.2,2.0,2026-Q3
+MRF-1496,Covenant Ridge Health Center,84-4410923,Cigna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,1998.48,185.0,2.0,2026-Q3
+MRF-1497,Covenant Ridge Health Center,84-4410923,Cigna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3489.27,211.5,2.0,2026-Q3
+MRF-1498,Covenant Ridge Health Center,84-4410923,Cigna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,726.01,204.5,2.0,2026-Q3
+MRF-1499,Covenant Ridge Health Center,84-4410923,Cigna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,896.52,206.1,2.0,2026-Q3
+MRF-1500,Covenant Ridge Health Center,84-4410923,Cigna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,620.55,200.2,2.0,2026-Q3
+MRF-1501,Covenant Ridge Health Center,84-4410923,Cigna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1712.52,219.6,2.0,2026-Q3
+MRF-1502,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,286.69,197.7,2.0,2026-Q3
+MRF-1503,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,501.91,189.4,2.0,2026-Q3
+MRF-1504,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,765.83,182.3,2.0,2026-Q3
+MRF-1505,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,173.16,188.2,2.0,2026-Q3
+MRF-1506,Covenant Ridge Health Center,84-4410923,Cigna,HMO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,148.05,160.9,2.0,2026-Q3
+MRF-1507,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,228.59,175.8,2.0,2026-Q3
+MRF-1508,Covenant Ridge Health Center,84-4410923,Cigna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,365.99,197.8,2.0,2026-Q3
+MRF-1509,Covenant Ridge Health Center,84-4410923,Cigna,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,344.71,186.3,2.0,2026-Q3
+MRF-1510,Covenant Ridge Health Center,84-4410923,Cigna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,18.67,207.4,2.0,2026-Q3
+MRF-1511,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3364.96,254.9,2.0,2026-Q3
+MRF-1512,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3269.37,253.4,2.0,2026-Q3
+MRF-1513,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1296.03,221.5,2.0,2026-Q3
+MRF-1514,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2156.62,229.4,2.0,2026-Q3
+MRF-1515,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3543.14,224.2,2.0,2026-Q3
+MRF-1516,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1041.71,254.1,2.0,2026-Q3
+MRF-1517,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,669.94,252.8,2.0,2026-Q3
+MRF-1518,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,811.67,257.7,2.0,2026-Q3
+MRF-1519,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,782.04,248.3,2.0,2026-Q3
+MRF-1520,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,719.89,293.8,2.0,2026-Q3
+MRF-1521,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,337.49,270.0,2.0,2026-Q3
+MRF-1522,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,273.07,218.5,2.0,2026-Q3
+MRF-1523,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,388.74,277.7,2.0,2026-Q3
+MRF-1524,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,543.41,236.3,2.0,2026-Q3
+MRF-1525,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,533.4,231.9,2.0,2026-Q3
+MRF-1526,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,63.93,255.7,2.0,2026-Q3
+MRF-1527,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2438.45,225.8,2.0,2026-Q3
+MRF-1528,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3031.89,183.8,2.0,2026-Q3
+MRF-1529,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3675.52,222.8,2.0,2026-Q3
+MRF-1530,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,671.6,189.2,2.0,2026-Q3
+MRF-1531,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,981.39,225.6,2.0,2026-Q3
+MRF-1532,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,800.47,184.0,2.0,2026-Q3
+MRF-1533,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,751.17,242.3,2.0,2026-Q3
+MRF-1534,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,602.26,194.3,2.0,2026-Q3
+MRF-1535,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1693.51,217.1,2.0,2026-Q3
+MRF-1536,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,325.01,224.1,2.0,2026-Q3
+MRF-1537,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,481.7,181.8,2.0,2026-Q3
+MRF-1538,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,824.84,196.4,2.0,2026-Q3
+MRF-1539,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,177.52,193.0,2.0,2026-Q3
+MRF-1540,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,275.69,212.1,2.0,2026-Q3
+MRF-1541,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,238.77,183.7,2.0,2026-Q3
+MRF-1542,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,361.28,195.3,2.0,2026-Q3
+MRF-1543,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,344.96,186.5,2.0,2026-Q3
+MRF-1544,St. Anselm Vincent Hospital,84-5582046,UnitedHealthcare (UHC),PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,16.36,181.8,2.0,2026-Q3
+MRF-1545,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3407.94,258.2,2.0,2026-Q3
+MRF-1546,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2722.08,211.0,2.0,2026-Q3
+MRF-1547,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1434.8,245.3,2.0,2026-Q3
+MRF-1548,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2262.76,240.7,2.0,2026-Q3
+MRF-1549,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3847.71,243.5,2.0,2026-Q3
+MRF-1550,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,981.5,239.4,2.0,2026-Q3
+MRF-1551,St. Anselm Vincent Hospital,84-5582046,Aetna,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1048.73,255.8,2.0,2026-Q3
+MRF-1552,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,744.97,281.1,2.0,2026-Q3
+MRF-1553,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,811.77,257.7,2.0,2026-Q3
+MRF-1554,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,738.68,301.5,2.0,2026-Q3
+MRF-1555,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,371.95,297.6,2.0,2026-Q3
+MRF-1556,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,385.72,275.5,2.0,2026-Q3
+MRF-1557,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,561.07,243.9,2.0,2026-Q3
+MRF-1558,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,64.51,258.0,2.0,2026-Q3
+MRF-1559,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2461.32,227.9,2.0,2026-Q3
+MRF-1560,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4193.64,254.2,2.0,2026-Q3
+MRF-1561,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,823.84,232.1,2.0,2026-Q3
+MRF-1562,St. Anselm Vincent Hospital,84-5582046,Aetna,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,786.66,221.6,2.0,2026-Q3
+MRF-1563,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1043.66,239.9,2.0,2026-Q3
+MRF-1564,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,634.24,204.6,2.0,2026-Q3
+MRF-1565,St. Anselm Vincent Hospital,84-5582046,Aetna,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,730.72,235.7,2.0,2026-Q3
+MRF-1566,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1543.06,197.8,2.0,2026-Q3
+MRF-1567,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,273.7,188.8,2.0,2026-Q3
+MRF-1568,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,531.03,200.4,2.0,2026-Q3
+MRF-1569,St. Anselm Vincent Hospital,84-5582046,Aetna,HMO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,491.38,185.4,2.0,2026-Q3
+MRF-1570,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,883.99,210.5,2.0,2026-Q3
+MRF-1571,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,194.72,211.7,2.0,2026-Q3
+MRF-1572,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,224.95,173.0,2.0,2026-Q3
+MRF-1573,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,318.28,172.0,2.0,2026-Q3
+MRF-1574,St. Anselm Vincent Hospital,84-5582046,Aetna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,18.43,204.8,2.0,2026-Q3
+MRF-1575,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3133.75,237.4,2.0,2026-Q3
+MRF-1576,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,2675.67,207.4,2.0,2026-Q3
+MRF-1577,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1210.71,207.0,2.0,2026-Q3
+MRF-1578,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,HMO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1174.41,200.8,2.0,2026-Q3
+MRF-1579,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,1940.78,206.5,2.0,2026-Q3
+MRF-1580,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3600.97,227.9,2.0,2026-Q3
+MRF-1581,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1084.44,264.5,2.0,2026-Q3
+MRF-1582,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,653.69,246.7,2.0,2026-Q3
+MRF-1583,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,719.52,228.4,2.0,2026-Q3
+MRF-1584,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,626.04,255.5,2.0,2026-Q3
+MRF-1585,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,316.73,253.4,2.0,2026-Q3
+MRF-1586,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,336.99,240.7,2.0,2026-Q3
+MRF-1587,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,617.24,268.4,2.0,2026-Q3
+MRF-1588,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,62.07,248.3,2.0,2026-Q3
+MRF-1589,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2463.1,228.1,2.0,2026-Q3
+MRF-1590,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,3773.19,228.7,2.0,2026-Q3
+MRF-1591,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,822.68,231.7,2.0,2026-Q3
+MRF-1592,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,982.45,225.9,2.0,2026-Q3
+MRF-1593,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,636.43,205.3,2.0,2026-Q3
+MRF-1594,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,HMO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,545.86,176.1,2.0,2026-Q3
+MRF-1595,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,1806.29,231.6,2.0,2026-Q3
+MRF-1596,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,267.06,184.2,2.0,2026-Q3
+MRF-1597,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,HMO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,230.78,159.2,2.0,2026-Q3
+MRF-1598,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,436.5,164.7,2.0,2026-Q3
+MRF-1599,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,800.22,190.5,2.0,2026-Q3
+MRF-1600,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,HMO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,812.16,193.4,2.0,2026-Q3
+MRF-1601,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,164.24,178.5,2.0,2026-Q3
+MRF-1602,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,248.02,190.8,2.0,2026-Q3
+MRF-1603,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,358.33,193.7,2.0,2026-Q3
+MRF-1604,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,HMO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,323.51,174.9,2.0,2026-Q3
+MRF-1605,St. Anselm Vincent Hospital,84-5582046,Anthem BCBS,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,16.3,181.1,2.0,2026-Q3
+MRF-1606,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,2863.32,216.9,2.0,2026-Q3
+MRF-1607,St. Anselm Vincent Hospital,84-5582046,Cigna,HMO,27447,Total Knee Arthroplasty,Orthopedics,professional,1320.0,3174.54,240.5,2.0,2026-Q3
+MRF-1608,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,27130,Total Hip Arthroplasty,Orthopedics,professional,1290.0,3018.61,234.0,2.0,2026-Q3
+MRF-1609,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,29881,Knee Arthroscopy/Meniscectomy,Orthopedics,professional,585.0,1530.04,261.5,2.0,2026-Q3
+MRF-1610,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,29827,Arthroscopic Rotator Cuff Repair,Orthopedics,professional,940.0,2189.08,232.9,2.0,2026-Q3
+MRF-1611,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,22551,Cervical Discectomy & Fusion,Orthopedics,professional,1580.0,3857.04,244.1,2.0,2026-Q3
+MRF-1612,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1186.46,289.4,2.0,2026-Q3
+MRF-1613,St. Anselm Vincent Hospital,84-5582046,Cigna,HMO,70553,MRI Brain w/ & w/o Contrast,Radiology & Imaging,institutional,410.0,1146.52,279.6,2.0,2026-Q3
+MRF-1614,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,73721,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,institutional,265.0,806.85,304.5,2.0,2026-Q3
+MRF-1615,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,74177,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,institutional,315.0,919.15,291.8,2.0,2026-Q3
+MRF-1616,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,71260,CT Thorax w/ Contrast,Radiology & Imaging,institutional,245.0,624.2,254.8,2.0,2026-Q3
+MRF-1617,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,76700,Ultrasound Abdominal Complete,Radiology & Imaging,institutional,125.0,311.95,249.6,2.0,2026-Q3
+MRF-1618,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,77067,Screening Mammography Bilateral,Radiology & Imaging,institutional,140.0,432.22,308.7,2.0,2026-Q3
+MRF-1619,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,93306,Echocardiogram Transthoracic Complete,Cardiology,institutional,230.0,649.95,282.6,2.0,2026-Q3
+MRF-1620,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,93000,Electrocardiogram Complete,Cardiology,professional,25.0,57.2,228.8,2.0,2026-Q3
+MRF-1621,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,93458,Left Heart Catheterization,Cardiology,institutional,1080.0,2731.75,252.9,2.0,2026-Q3
+MRF-1622,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,33249,Insertion of Pacemaker/ICD Defibrillator,Cardiology,institutional,1650.0,4532.58,274.7,2.0,2026-Q3
+MRF-1623,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,856.33,241.2,2.0,2026-Q3
+MRF-1624,St. Anselm Vincent Hospital,84-5582046,Cigna,HMO,45378,Diagnostic Colonoscopy,Gastroenterology,institutional,355.0,715.4,201.5,2.0,2026-Q3
+MRF-1625,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,1020.42,234.6,2.0,2026-Q3
+MRF-1626,St. Anselm Vincent Hospital,84-5582046,Cigna,HMO,45380,Colonoscopy w/ Biopsy,Gastroenterology,institutional,435.0,893.52,205.4,2.0,2026-Q3
+MRF-1627,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,institutional,310.0,716.38,231.1,2.0,2026-Q3
+MRF-1628,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,47562,Laparoscopic Cholecystectomy,Gastroenterology,professional,780.0,2107.76,270.2,2.0,2026-Q3
+MRF-1629,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,302.46,208.6,2.0,2026-Q3
+MRF-1630,St. Anselm Vincent Hospital,84-5582046,Cigna,HMO,99283,ED Visit Level 3,Emergency & E/M,institutional,145.0,242.53,167.3,2.0,2026-Q3
+MRF-1631,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99284,ED Visit Level 4,Emergency & E/M,institutional,265.0,551.93,208.3,2.0,2026-Q3
+MRF-1632,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99285,ED Visit Level 5,Emergency & E/M,institutional,420.0,997.78,237.6,2.0,2026-Q3
+MRF-1633,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99213,Office Visit Est Level 3,Emergency & E/M,professional,92.0,216.94,235.8,2.0,2026-Q3
+MRF-1634,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99214,Office Visit Est Level 4,Emergency & E/M,professional,130.0,277.34,213.3,2.0,2026-Q3
+MRF-1635,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,99215,Office Visit Est Level 5,Emergency & E/M,professional,185.0,393.63,212.8,2.0,2026-Q3
+MRF-1636,St. Anselm Vincent Hospital,84-5582046,Cigna,PPO,36415,Routine Venipuncture,Emergency & E/M,institutional,9.0,15.9,176.7,2.0,2026-Q3

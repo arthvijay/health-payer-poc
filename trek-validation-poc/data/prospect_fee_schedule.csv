@@ -1,0 +1,61 @@
+prospect_row_id,payer_name,cpt_code,modifier,description,service_line,prospect_rate,annual_volume,contract_renewal_date
+SRH-001,UnitedHealthcare (UHC),27447,None,Total Knee Arthroplasty,Orthopedics,2052.22,85,2027-03-31
+SRH-002,Aetna,27447,None,Total Knee Arthroplasty,Orthopedics,2129.7,68,2027-06-30
+SRH-003,UnitedHealthcare (UHC),27130,None,Total Hip Arthroplasty,Orthopedics,2090.22,65,2027-03-31
+SRH-004,Aetna,27130,None,Total Hip Arthroplasty,Orthopedics,2482.15,52,2027-06-30
+SRH-005,UnitedHealthcare (UHC),29881,None,Knee Arthroscopy/Meniscectomy,Orthopedics,1067.87,115,2027-03-31
+SRH-006,Aetna,29881,None,Knee Arthroscopy/Meniscectomy,Orthopedics,1406.93,92,2027-06-30
+SRH-007,UnitedHealthcare (UHC),29827,None,Arthroscopic Rotator Cuff Repair,Orthopedics,1511.77,70,2027-03-31
+SRH-008,Aetna,29827,None,Arthroscopic Rotator Cuff Repair,Orthopedics,1941.23,56,2027-06-30
+SRH-009,UnitedHealthcare (UHC),22551,None,Cervical Discectomy & Fusion,Orthopedics,3053.76,35,2027-03-31
+SRH-010,Aetna,22551,None,Cervical Discectomy & Fusion,Orthopedics,4419.39,28,2027-06-30
+SRH-011,UnitedHealthcare (UHC),70553,None,MRI Brain w/ & w/o Contrast,Radiology & Imaging,631.13,370,2027-03-31
+SRH-012,Aetna,70553,None,MRI Brain w/ & w/o Contrast,Radiology & Imaging,754.75,296,2027-06-30
+SRH-013,UnitedHealthcare (UHC),73721,None,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,615.03,470,2027-03-31
+SRH-014,Aetna,73721,None,MRI Lower Extremity Joint w/o Contrast,Radiology & Imaging,481.27,376,2027-06-30
+SRH-015,UnitedHealthcare (UHC),74177,None,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,593.67,810,2027-03-31
+SRH-016,Aetna,74177,None,CT Abdomen & Pelvis w/ Contrast,Radiology & Imaging,779.2,648,2027-06-30
+SRH-017,UnitedHealthcare (UHC),71260,None,CT Thorax w/ Contrast,Radiology & Imaging,693.06,540,2027-03-31
+SRH-018,Aetna,71260,None,CT Thorax w/ Contrast,Radiology & Imaging,591.2,432,2027-06-30
+SRH-019,UnitedHealthcare (UHC),76700,None,Ultrasound Abdominal Complete,Radiology & Imaging,292.87,660,2027-03-31
+SRH-020,Aetna,76700,None,Ultrasound Abdominal Complete,Radiology & Imaging,421.23,528,2027-06-30
+SRH-021,UnitedHealthcare (UHC),77067,None,Screening Mammography Bilateral,Radiology & Imaging,416.21,1440,2027-03-31
+SRH-022,Aetna,77067,None,Screening Mammography Bilateral,Radiology & Imaging,391.15,1152,2027-06-30
+SRH-023,UnitedHealthcare (UHC),93306,None,Echocardiogram Transthoracic Complete,Cardiology,475.65,780,2027-03-31
+SRH-024,Aetna,93306,None,Echocardiogram Transthoracic Complete,Cardiology,554.42,624,2027-06-30
+SRH-025,UnitedHealthcare (UHC),93000,None,Electrocardiogram Complete,Cardiology,64.6,2520,2027-03-31
+SRH-026,Aetna,93000,None,Electrocardiogram Complete,Cardiology,69.58,2016,2027-06-30
+SRH-027,UnitedHealthcare (UHC),93458,None,Left Heart Catheterization,Cardiology,1544.44,125,2027-03-31
+SRH-028,Aetna,93458,None,Left Heart Catheterization,Cardiology,2206.82,100,2027-06-30
+SRH-029,UnitedHealthcare (UHC),33249,None,Insertion of Pacemaker/ICD Defibrillator,Cardiology,3121.8,40,2027-03-31
+SRH-030,Aetna,33249,None,Insertion of Pacemaker/ICD Defibrillator,Cardiology,2888.14,32,2027-06-30
+SRH-031,UnitedHealthcare (UHC),45378,None,Diagnostic Colonoscopy,Gastroenterology,738.83,420,2027-03-31
+SRH-032,Aetna,45378,None,Diagnostic Colonoscopy,Gastroenterology,679.27,336,2027-06-30
+SRH-033,UnitedHealthcare (UHC),45380,None,Colonoscopy w/ Biopsy,Gastroenterology,665.94,490,2027-03-31
+SRH-034,Aetna,45380,None,Colonoscopy w/ Biopsy,Gastroenterology,706.38,392,2027-06-30
+SRH-035,UnitedHealthcare (UHC),43239,None,Upper GI Endoscopy w/ Biopsy,Gastroenterology,580.75,455,2027-03-31
+SRH-036,Aetna,43239,None,Upper GI Endoscopy w/ Biopsy,Gastroenterology,667.66,364,2027-06-30
+SRH-037,UnitedHealthcare (UHC),47562,None,Laparoscopic Cholecystectomy,Gastroenterology,1085.44,110,2027-03-31
+SRH-038,Aetna,47562,None,Laparoscopic Cholecystectomy,Gastroenterology,1887.6,88,2027-06-30
+SRH-039,UnitedHealthcare (UHC),99283,None,ED Visit Level 3,Emergency & E/M,304.78,1560,2027-03-31
+SRH-040,Aetna,99283,None,ED Visit Level 3,Emergency & E/M,239.52,1248,2027-06-30
+SRH-041,UnitedHealthcare (UHC),99284,None,ED Visit Level 4,Emergency & E/M,365.21,1740,2027-03-31
+SRH-042,Aetna,99284,None,ED Visit Level 4,Emergency & E/M,450.89,1392,2027-06-30
+SRH-043,UnitedHealthcare (UHC),99285,None,ED Visit Level 5,Emergency & E/M,684.69,900,2027-03-31
+SRH-044,Aetna,99285,None,ED Visit Level 5,Emergency & E/M,874.89,720,2027-06-30
+SRH-045,UnitedHealthcare (UHC),99213,None,Office Visit Est Level 3,Emergency & E/M,207.81,4320,2027-03-31
+SRH-046,Aetna,99213,None,Office Visit Est Level 3,Emergency & E/M,196.21,3456,2027-06-30
+SRH-047,UnitedHealthcare (UHC),99214,None,Office Visit Est Level 4,Emergency & E/M,202.57,3360,2027-03-31
+SRH-048,Aetna,99214,None,Office Visit Est Level 4,Emergency & E/M,267.65,2688,2027-06-30
+SRH-049,UnitedHealthcare (UHC),99215,None,Office Visit Est Level 5,Emergency & E/M,392.72,1020,2027-03-31
+SRH-050,Aetna,99215,None,Office Visit Est Level 5,Emergency & E/M,413.38,816,2027-06-30
+SRH-051,UnitedHealthcare (UHC),36415,None,Routine Venipuncture,Emergency & E/M,17.75,7200,2027-03-31
+SRH-052,Aetna,36415,None,Routine Venipuncture,Emergency & E/M,15.2,5760,2027-06-30
+SRH-053,UnitedHealthcare (UHC),27446,None,Unicompartmental (Partial) Knee Arthroplasty,Orthopedics,1780.0,55,2027-03-31
+SRH-054,Aetna,27446,None,Unicompartmental (Partial) Knee Arthroplasty,Orthopedics,1925.0,44,2027-06-30
+SRH-055,UnitedHealthcare (UHC),70551,26,MRI Brain w/o Contrast — Professional Component,Radiology & Imaging,298.0,520,2027-03-31
+SRH-056,Aetna,70551,26,MRI Brain w/o Contrast — Professional Component,Radiology & Imaging,322.0,410,2027-06-30
+SRH-057,UnitedHealthcare (UHC),45385,None,Colonoscopy w/ Lesion Removal by Snare,Gastroenterology,810.0,430,2027-03-31
+SRH-058,Aetna,45385,None,Colonoscopy w/ Lesion Removal by Snare,Gastroenterology,865.0,345,2027-06-30
+SRH-059,UnitedHealthcare (UHC),0408T,None,Cat III Cardiac Ablation — Emerging Technology,Cardiology,2350.0,34,2027-03-31
+SRH-060,Aetna,0408T,None,Cat III Cardiac Ablation — Emerging Technology,Cardiology,2480.0,26,2027-06-30
